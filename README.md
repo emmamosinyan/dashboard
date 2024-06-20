@@ -9,6 +9,7 @@ You can follow the steps below to run the app.
 
 - Clone this GitHub repository.
 - open VScode
+- make sure you have Node
 - Go to 'dashboard-main' directory
 - run **npm i** command
 - run **npm start** to start the server
